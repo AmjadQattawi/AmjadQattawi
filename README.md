@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Amjad Qattawi
 
-<!--
-**AmjadQattawi/AmjadQattawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer passionate about building scalable backend systems and APIs.
 
-Here are some ideas to get you started:
+## Technologies
+- Java
+- Spring Boot
+- C#
+- ASP.NET Core
+- SQL
+- Oracle DB
+- Docker
+- Git
+- REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### CompanyERP API
+ERP backend system built with ASP.NET Core, EF Core and Oracle DB.
+
+### Event Management System
+Backend platform built using Spring Boot and Oracle DB.
+
+### Real-Time Chat System
+Real-time messaging application using WebSocket/STOMP and JWT Authentication.
+
+## Contact
+
+LinkedIn:
+linkedin.com/in/amjad-qattawi-b35602289
+
+Email:
+amjadalqattawi079@gmail.com
