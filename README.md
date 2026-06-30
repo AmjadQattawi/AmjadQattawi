@@ -3,10 +3,10 @@
 Backend Developer passionate about building scalable backend systems and APIs.
 
 ## Technologies
+- ASP.NET Core
+- C#
 - Java
 - Spring Boot
-- C#
-- ASP.NET Core
 - SQL
 - Oracle DB
 - Docker
