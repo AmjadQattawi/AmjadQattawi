@@ -7,23 +7,30 @@ Backend Developer passionate about building scalable backend systems and APIs.
 - C#
 - Java
 - Spring Boot
+- HTML5
+- CSS3
+- JavaScript
 - SQL
 - Oracle DB
+- Entity Framework Core
 - Docker
 - Git
 - REST APIs
+- Postman
 
 ## Featured Projects
 
 ### CompanyERP API
-ERP backend system built with ASP.NET Core, EF Core and Oracle DB.
+Backend ERP system built with ASP.NET Core, Entity Framework Core, and Oracle DB. Features employee, project, and payroll management with role-based authentication, REST APIs, and database integration.
 
 ### Event Management System
-Backend platform built using Spring Boot and Oracle DB.
+Backend platform built using Spring Boot and Oracle DB. Supports event booking, REST APIs, authentication, validation, and external service integration.
 
 ### Real-Time Chat System
-Real-time messaging application using WebSocket/STOMP and JWT Authentication.
+Real-time messaging application built with Spring Boot, WebSocket/STOMP, JWT Authentication, and Oracle DB, supporting secure messaging and persistent chat history.
 
+### Product Management System (HTML, CSS, JavaScript)
+Responsive CRUD web application for product management built with HTML, CSS, and JavaScript. Supports creating, updating, deleting, searching, and storing products using Local Storage.
 ## Contact
 
 LinkedIn:
