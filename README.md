@@ -1,7 +1,6 @@
 # Hi, I'm Amjad Qattawi
 
-Backend Developer passionate about building scalable backend systems and APIs.
-
+Building backend applications, REST APIs, and database-driven solutions using ASP.NET Core, Spring Boot, SQL, HTML, CSS, and JavaScript.
 ## Technologies
 - ASP.NET Core
 - C#
