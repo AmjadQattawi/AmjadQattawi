@@ -4,11 +4,14 @@ Building backend applications, REST APIs, and database-driven solutions using AS
 ## Technologies
 - ASP.NET Core
 - C#
-- Java
-- Spring Boot
+- React
 - HTML5
 - CSS3
 - JavaScript
+- TypeScript
+- Java
+- Spring Boot
+
 - SQL
 - Oracle DB
 - Entity Framework Core
